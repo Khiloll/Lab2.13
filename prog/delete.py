@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+
 def del_items(type_param='even'):
     """
     Выбирается тип элементов для удаления.
